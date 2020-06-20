@@ -565,12 +565,11 @@ ARM Macro Assembler    Page 9
               00000200 
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
-ork --depend=..\obj\startup_stm32f10x_hd.d -o..\obj\startup_stm32f10x_hd.o -I"E
-:\AAA   淘宝订单\项目\未完成订单\未开工\17382 基于STM32单片机的居民用电情况触摸
-屏显示设计 已采购\居民用电源码\USER\RTE" -IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_D
-FP\2.2.0\Device\Include -IC:\Keil_v5\ARM\CMSIS\Include --predefine="__UVISION_V
-ERSION SETA 521" --predefine="STM32F10X_HD SETA 1" --list=.\startup_stm32f10x_h
-d.lst ..\CORE\startup_stm32f10x_hd.s
+ork --depend=..\obj\startup_stm32f10x_hd.d -o..\obj\startup_stm32f10x_hd.o -IE:
+\songcode\STM32_EMWIN_GRAPHICS\USER\RTE -IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DF
+P\2.2.0\Device\Include -IC:\Keil_v5\ARM\CMSIS\Include --predefine="__UVISION_VE
+RSION SETA 521" --predefine="STM32F10X_HD SETA 1" --list=.\startup_stm32f10x_hd
+.lst ..\CORE\startup_stm32f10x_hd.s
 
 
 
